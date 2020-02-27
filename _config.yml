@@ -1,27 +1,25 @@
-title: 星合の空 # 站点标题
-tagline: wu-kan
+title: NeoKH # 站点标题
+tagline: 欢迎来到孔昊的博客
 description: | # 头像背后的信息，<br/>代表换行
-  SYSU超算17级在读<br/>
-  永远喜欢水野爱<br/>
-  田宫例四驱车<br/>
-  ASC<br/>
-  <a href="mailto:wu.kan@foxmail.com" title="wu.kan@foxmail.com">
+  Njust原著居民<br/>
+  等真爱中...<br/>
+  <a href="mailto:konghao078@gmail.com" title="konghao078@gmail.com">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan" title="github">
+  <a href="https://github.com/neokh" title="github">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK" title="WuK">
+  <a href="https://codeforces.com/" title="codeforce">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK" title="WuK">
+  <a href="https://blog.csdn.net/Neo_kh" title="CSDN">
     <i class="fas fa-smile"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities" title="zhihu">
+  <a href="https://www.zhihu.com/people/kong-hao-45" title="知乎">
     <i class="fab fa-zhihu"></i>
   </a>
   <iframe
-    src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
+    src="https://music.163.com/outchain/player?type=2&id=409649830&auto=0&height=32"
     width=100%
     height=52
     frameborder="no"
@@ -29,7 +27,7 @@ description: | # 头像背后的信息，<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://wu-kan.cn # https://wu-kan.github.io
+url: https://neokh.website # 如果你有域名，添加自己的域名
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 plugins: # https://jekyllrb.com/docs/plugins/
