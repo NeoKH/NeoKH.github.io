@@ -107,29 +107,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
     posts_count:
       enable: true
       alert: 篇博文。长路漫漫！
-  comments:
-    alert: |
-      <div class="v">
-        <i class="fas fa-spinner fa-pulse"></i>
-      </div>
-      <script
-        src='https://cdn.jsdelivr.net/npm/valine'
-        defer='defer'
-        onload='
-          new Valine({
-            "el": ".v",
-            "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-            "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
-            "notify": "true",
-            "verify": "true",
-            "avatar": "identicon",
-            "placeholder": "在这里评论吧！",
-            "visitor": true,
-            "highlight": true,
-            "avatarForce": false,
-            "recordIP": true
-          })'
-      ></script>
   post:
     date:
       enable: true
