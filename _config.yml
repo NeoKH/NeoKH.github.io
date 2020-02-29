@@ -70,7 +70,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var alipay = "https://qr.alipay.com/fkx07951pueadphgtsdcyc4";
           var paypal = "";
           var myname = "孔昊";
-          var profile = "https://gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300";
+          var profile = "https://pic.downk.cc/item/5e567b816127cc0713dbe942.jpg";
           var multilingual = true;
           var myname_hans = "孔昊";
           var myname_hant = "孔昊";
