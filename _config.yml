@@ -314,12 +314,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         />
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300"
+          href="https://pic.downk.cc/item/5e5a57c26127cc071351ee6a.png"
         />
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=32"
+          href="https://pic.downk.cc/item/5e5a57d06127cc071351effb.png"
         />
         <link
           rel="stylesheet"
@@ -527,7 +527,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://cdn.jsdelivr.net/gh/wu-kan/jekyll-theme-WuK/assets/image/71932901_p0.webp);
+              background-image: url(https://pic.downk.cc/item/5e5a55be6127cc071351aa22.jpg);
             }
           }
           .masthead {
