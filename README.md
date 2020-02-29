@@ -14,7 +14,11 @@ title: KH
 - Site: **<https://neokh.website>**
 - SomeWords：
 > 死都不怕，就怕不安逸，命都不要，就要安逸，就这毛病，多少年来这是个被人钉死了的死穴，一打一个准儿。     ————龙文章
-<iframe src="//player.bilibili.com/player.html?aid=89398065&cid=152691269&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe 
+width="100%"
+src="//player.bilibili.com/player.html?aid=89398065&cid=152691269&page=1" 
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
 
 
 ## 关于博客
