@@ -501,7 +501,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url();
+              background-image: url(https://pic.downk.cc/item/5e5a6c9d6127cc071354be25.jpg);
             }
           }
           .masthead {
