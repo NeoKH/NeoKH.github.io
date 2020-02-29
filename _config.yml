@@ -77,7 +77,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var myname_eng = "KH";
           var title = "选择你的支付方式";
           var subtitle = "跟随进一步的指示以向" + myname + "付款";
-          var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
         </script>
       - |
         <meta
