@@ -75,8 +75,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var myname_hans = "孔昊";
           var myname_hant = "孔昊";
           var myname_eng = "KH";
-          var title = "选择你的支付方式";
-          var subtitle = "跟随进一步的指示以向" + myname + "付款";
+          var title = "如果我的博客帮助到你，欢迎请我喝杯奶茶";
+          var subtitle = "选择你的支付方式";
         </script>
       - |
         <meta
