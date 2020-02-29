@@ -1,7 +1,7 @@
 title: NeoKH # 站点标题
 tagline: 欢迎来到孔昊的博客
 description: | # 头像背后的信息，<br/>代表换行
-  NJUST原著居民<br/>
+  NJUST土著<br/>
   好人卡收藏家<br/>
   炮灰团狗肉<br/>
   <a href="mailto:konghao078@gmail.com" title="konghao078@gmail.com">
@@ -172,8 +172,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false
       avatar: # 侧边栏显示的头像
         enable: true
-        # img: https://gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=300 # 头像的地址
-        img: https://pic.downk.cc/item/5e567b816127cc0713dbe942.jpg
+        img: https://pic.downk.cc/item/5e5a57c26127cc071351ee6a.png # 头像的地址
       nav:
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
