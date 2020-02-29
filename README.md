@@ -19,7 +19,9 @@ width="100%" height="450"
 src="//player.bilibili.com/player.html?aid=89398065&cid=152691269&page=1" 
 scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
 </iframe>
-
+<script type="text/javascript">  
+document.getElementById("spkj").style.height=document.getElementById("spkj").scrollWidth*0.76+"px";
+</script>
 
 ## 关于博客
 
