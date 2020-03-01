@@ -151,7 +151,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       avatar: # 侧边栏显示的头像
         enable: true
         # img: https://pic.downk.cc/item/5e5a57c26127cc071351ee6a.png # 头像的地址
-        img: https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/avatar/family.jpg
+        img: https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/avatar/famliy.jpg
       nav:
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -499,11 +499,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/phone/pinkmonster.jpg);
+            background-image: url(https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/phone/pinkmonster.png;
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/desktop/kid-tiny.jpg);
+              background-image: url(https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/desktop/kid-tiny.png);
             }
           }
           .masthead {
