@@ -3,6 +3,8 @@ title: 用Shuffle加速CUDA上的Reduce操作
 tags:
   - 高性能计算
 ---
+## 写在前面
+本文转载自[吴坎的博客](https://wu-kan.cn/)。
 
 ## 简介
 
