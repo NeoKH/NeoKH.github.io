@@ -4,7 +4,6 @@ description: | # 头像背后的信息，<br/>代表换行
   NJUST土著<br/>
   好人卡收藏家<br/>
   炮灰团狗肉<br/>
-  不要怕，不要悔<br/>
   <a href="mailto:konghao078@gmail.com" title="konghao078@gmail.com">
     <i class="fas fa-envelope"></i>
   </a>
@@ -65,7 +64,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
     append_to_head:
       - | # 支持的变量见https://merger.justhx.com/cn/docs/configure
         <script>
-          var usage = "donate";
+          var usage = "payment";
           var wechat = "wxp://f2f0h2FbiNT0fjJnnXVgeS4uROt2pttJauOy";
           var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQw6e45QEYjqHo8gU%3D_xxx_sign&u=481170371&n=%E6%9C%80%E5%90%8E%E7%9A%84%E6%9C%80%E5%90%8E";
           var alipay = "https://qr.alipay.com/fkx07951pueadphgtsdcyc4";
@@ -151,7 +150,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       avatar: # 侧边栏显示的头像
         enable: true
         # img: https://pic.downk.cc/item/5e5a57c26127cc071351ee6a.png # 头像的地址
-        img: https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/avatar/famliy.jpg
+        img: https://pic.downk.cc/item/5e5a9d176127cc07135ad8f2.jpg
       nav:
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -241,6 +240,31 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
               }, 1000, "10/04/2017 11:03:56") // 这是我第一篇CSDN博客的时间
             </script>
+          </div>
+        - | # 不蒜子页面统计
+          <div>
+            <div>
+              <i class="fas fa-eye fa-fw"></i>
+              <span id="busuanzi_value_page_pv">
+                <i class="fas fa-spinner fa-pulse"></i>
+              </span>次
+            </div>
+            <div>
+              <i class="fas fa-paw fa-fw"></i>
+              <span id="busuanzi_value_site_pv">
+                <i class="fas fa-spinner fa-pulse"></i>
+              </span>枚
+            </div>
+            <div>
+              <i class="fas fa-user-friends fa-fw"></i>
+              <span id="busuanzi_value_site_uv">
+                <i class="fas fa-spinner fa-pulse"></i>
+              </span>人
+            </div>
+            <script
+              src='https://cdn.jsdelivr.net/npm/busuanzi'
+              defer='defer'
+            ></script>
           </div>
       wordcount:
         enable: false # 本地调试时建议关闭，非常耗时（与博文数量的平方成正比）
@@ -474,11 +498,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/phone/pinkmonster.png;
+            background-image: url(https://pic.downk.cc/item/5e5a4fae6127cc071350ca05.png);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/desktop/kid-tiny.png);
+              background-image: url(https://pic.downk.cc/item/5e5a6c9d6127cc071354be25.jpg);
             }
           }
           .masthead {
