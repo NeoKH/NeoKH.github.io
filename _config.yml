@@ -503,6 +503,10 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
+              background-size: 100vw auto;
+              background-position: center top;
+              background-repeat: no-repeat;
+              background-attachment: fixed;
               background-image: url(https://cdn.jsdelivr.net/gh/NeoKH/imagebed@1.0/background/desktop/kid-tiny.png);
             }
           }
@@ -599,7 +603,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           .content,
           .sidebar-toggle,
           .pio-container {
-            animation: animationAppear 20s;
+            animation: animationAppear 2s;
           }
           @keyframes animationAppear {
             0% {
