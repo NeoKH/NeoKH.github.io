@@ -27,7 +27,7 @@ tags:
 
 依次点击`头像`==>`setting`==>`Developer settings`==>`personal access tokens`==>`generate new token`.
 
-![2020-03-02-1.JPG)](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-1.JPG)
+![2020-03-02-1.JPG](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-1.JPG)
 
 在`note`中填写该`token`的用途，并勾选下方`repo`选项，然后点击`generate token`即可。
 
@@ -37,7 +37,7 @@ tags:
 
 在VSCode中安装PicGo插件，安装完成后，打开`extension setting`，如下：
 
-![2020-03-02-2.jpg)](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-2.jpg)
+![2020-03-02-2.jpg](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-2.jpg)
 
 在`current`中选择`github`，分支选择主分支，在Repo中填写`用户名/仓库名`，在`path`中填写你希望图片保存的路径，例如我写的是`others/`，那么图片会保存在`imagebed/others/`路径下。实际使用中，`Path`可以经常改动以将图片保存在不同位置。最后填入生成的`token`。至此，配置完毕。
 
