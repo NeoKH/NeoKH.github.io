@@ -27,7 +27,7 @@ tags:
 
 依次点击`头像`==>`setting`==>`Developer settings`==>`personal access tokens`==>`generate new token`.
 
-![2020-03-02-1.JPG](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-1.JPG)
+![20200302001.JPG](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/20200302001.JPG)
 
 在`note`中填写该`token`的用途，并勾选下方`repo`选项，然后点击`generate token`即可。
 
@@ -37,7 +37,7 @@ tags:
 
 在VSCode中安装PicGo插件，安装完成后，打开`extension setting`，如下：
 
-![2020-03-02-2.jpg](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-2.jpg)
+![20200302002.jpg](https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/20200302002.jpg)
 
 在`current`中选择`github`，分支选择主分支，在Repo中填写`用户名/仓库名`，在`path`中填写你希望图片保存的路径，例如我写的是`others/`，那么图片会保存在`imagebed/others/`路径下。实际使用中，`Path`可以经常改动以将图片保存在不同位置。最后填入生成的`token`。至此，配置完毕。
 
@@ -48,16 +48,19 @@ tags:
 支持三种上传图片的方式。打开`.md`文档（仅支持这markdown文档），在你想插入图片的位置按下述快捷键：
 
 - 从剪切板上传: `Ctrl + Alt + U`
-  <img src="https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-3.gif" style="zoom:50%;" />
+  <img src="https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/20200302003.gif" style="zoom:50%;" />
 
 - 从文件夹上传: `Ctrl + Alt + E`
-  <img src="https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-4.gif" style="zoom:50%;" />
+  <img src="https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/20200302004.gif" style="zoom:50%;" />
 
 - 输入图片名上传: `Ctrl + Alt + O`
-  <img src="https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/2020-03-02-5.gif" style="zoom:50%;" />
+  <img src="https://raw.githubusercontent.com/NeoKH/imagebed/master/blogs/20200302005.gif" style="zoom:50%;" />
 
 
+值得注意的是，由于github源在国外，国内访问github的速度十分感人，所以上传图片成了一件玄学，时而会出现失败。你可以找一下提高github访问速度的方法解决此问题。
+另外，从文件夹上传支持上传多张图片。
 
+---
 参考：
 
 - [官方文档](https://picgo.github.io/PicGo-Doc/zh/guide/)
