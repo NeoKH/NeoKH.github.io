@@ -5,12 +5,6 @@ tags:
 
 ---
 
-
-
-# VSCode插件之PicGo
-
-
-
 `PicGo`是一个**图床管理工具**，支持微博、七牛云、腾讯云COS、又拍云、GitHub、阿里云OSS、SM.MS、imgur 等8种常用图床，简单易用。目前最新版本是2.0。因为直接安装`PicGo`需要`Node.js`，我不想再安装`Node.js`，于是选择使用`VSCode`的`PicGo`插件。
 
 ## 设置
