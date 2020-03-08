@@ -23,7 +23,7 @@ from keras.callbacks import ReduceLROnPlateau
 ## ModelCheckpoint
 
 ```py
-keras.callbacks.callbacks.ModelCheckpoint(
+keras.callbacks.ModelCheckpoint(
 	filepath, 
 	monitor='val_loss', 
 	verbose=0, 
