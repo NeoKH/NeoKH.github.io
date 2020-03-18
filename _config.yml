@@ -619,9 +619,9 @@ readme_index:
 
 permalink: /_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
 # timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见https://www.iana.org/time-zones
-# future: false # 不发布时间在未来的文章
+future: true # 不发布时间在未来的文章
 
-# limit_posts: 999 # 限制博文数量
+limit_posts: 9999 # 限制博文数量
 # encoding: utf-8
 
 markdown: kramdown
