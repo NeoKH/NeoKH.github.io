@@ -45,7 +45,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
     recent:
       enable: true
       title: 最近动态
-      limit: 5
+      limit: 7
       archive:
         enable: true
         href: /archive
